@@ -3,7 +3,7 @@
 The code here contains a sequnce-to-sequence LSTM/GRU based deep learning model used for wireless signal strength prediction. It is possible to train the model in three training paradigms of guided, unguided and curriculum training. Please refer the [paper](http://www.dinalherath.com/papers/2019ICC.pdf) for algorithm information. Note, an extended version of the work with more comparison is also available in this [paper](http://www.dinalherath.com/papers/2019tvt.pdf).
 
 <p align="center">
-  <img src="images/image.jpg" width="650">
+  <img src="image.jpg" width="400">
 </p>
 
 #### Deep learning (LSTM and GRU) models:
