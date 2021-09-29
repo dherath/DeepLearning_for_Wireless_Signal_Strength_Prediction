@@ -1,6 +1,6 @@
 ### A Deep Learning Model for Wireless Channel Quality Prediction ###
 
-The code here contains a sequnce-to-sequence LSTM/GRU based deep learning model used for wireless signal strength prediction. It is possible to train the model in three training paradigms of guided, unguided and curriculum training. Please refer the [paper](http://www.dinalherath.com/papers/2019ICC.pdf) for algorithm information. Note, an extended version of the work with more comparison is also available in this [paper](http://www.dinalherath.com/papers/2019tvt.pdf).
+The code here contains a sequence-to-sequence LSTM/GRU based deep learning model used for wireless signal strength prediction. It is possible to train the model in three training paradigms of guided, unguided and curriculum training. Please refer the [paper](http://www.dinalherath.com/papers/2019ICC.pdf) for algorithm information. Note, an extended version of the work with more comparison is also available in this [paper](http://www.dinalherath.com/papers/2019tvt.pdf).
 
 <p align="center">
   <img src="image.jpg" width="500">
@@ -26,7 +26,7 @@ All datasets are cleaned datasets. Reference for the raw data is mentioned below
 - ATT_4G_pedestrian.txt
 
 **Industrial Network Measurements:**
-(Raw data can be found at https://crawdad.org/init/factory/20160613/factory1-channel-gain)
+(Raw data can be found at this [link](https://crawdad.org/init/factory/20160613/factory1-channel-gain))
 - s21_average_sweep.txt (antennas separated by a distance of 3.1m)
 - s31_average_sweep.txt (antennas separated by a distance of 10.0m)
 - s41_average_sweep.txt (antennas separated by a distance of 20.4m)
@@ -37,7 +37,7 @@ All datasets are cleaned datasets. Reference for the raw data is mentioned below
 - wifi_2s_sample.txt (sampling rate of 2 seconds)
 
 **Zigbee Measurements:**
-(Raw data can be found at https://crawdad.org/due/packet-delivery/20150401)
+(Raw data can be found at this [link](https://crawdad.org/due/packet-delivery/20150401))
 (Power level 31 considered)
 - wsn_p31_d10_sample.txt (sensor nodes communicating with each other over fixed distance of 10m)
 - wsn_p31_d15_sample.txt (sensor nodes communicating with each other over fixed distance of 15m)
